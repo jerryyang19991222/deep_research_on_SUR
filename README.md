@@ -13,7 +13,7 @@
 # 參考文獻
 
 ## (1)營收動能_PEAD
-Campbell and Shiller (1988)
+Campbell and Shiller (1988) /n
 VICTOR L. BERNARD* AND JACOB K. THOMAS (1989)
 Givoly and Lakonishok (1979)
 Chui et al(2010) 
