@@ -19,6 +19,13 @@
 
 # 文獻探討
 
+## (1)營收動能(Post earning anouncement drift)
+（文獻內容）
+
+## (2)因子擁擠(Factor Crowding)
+（文獻內容）
+
+## (3)市場情緒(Market seniment)
 （文獻內容）
 
 # 假說建立
